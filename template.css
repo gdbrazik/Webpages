@@ -1,0 +1,22 @@
+/*
+ *Name: [Grayson Brazik]
+ *UnityID: [gdbraziks]
+ *Date: [11/19/26]
+ *Assignment: [webpages]
+ *Description: [create html]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF
+}
+
+.table-border {
+    border: 1px solid #DECAFF
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-width: 300px;
+}
